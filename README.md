@@ -1,1 +1,2 @@
-# AIWolf
+## AIWolf
+class name : DiscoRoleAssignPlayer
