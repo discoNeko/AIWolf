@@ -3,6 +3,10 @@ class name : DiscoRoleAssignPlayer
 
 # 参考
 
+## 人狼知能プロジェクト
+[人狼知能プロジェクト](http://aiwolf.org/2nd-contest/)  
+[ルール・エージェントの作り方](http://aiwolf.org/howtowagent/)
+
 ## ゲームAI論文
 [水上 直紀](http://www.logos.t.u-tokyo.ac.jp/~mizukami/)：麻雀AI
 
@@ -13,6 +17,9 @@ class name : DiscoRoleAssignPlayer
 [コミュニケーションゲーム「人狼」におけるエージェント同士の会話プロトコルのモデル化](http://hai-conference.net/hai2013/proceedings/pdf/P19.pdf)  
 
 [強化学習を用いた人狼における最適戦略の抽出](http://ci.nii.ac.jp/naid/170000085948)  
+
+[人狼知能エージェントによる議論の雰囲気生成とＡＩ識別実験](https://www.jstage.jst.go.jp/article/fss/31/0/31_370/_pdf)：対面人狼におけるAI  
+
 
 ## スライド
 [機械学習と深層学習の数理](http://www.slideshare.net/RyoNakamura3/ss-61945131)：DQN解説  
