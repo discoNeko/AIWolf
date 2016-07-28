@@ -11,12 +11,12 @@ class name : DiscoRoleAssignPlayer
 [水上 直紀](http://www.logos.t.u-tokyo.ac.jp/~mizukami/)：麻雀AI
 
 ## 人狼知能論文
-[同調と反駁に着目した人狼ゲームの分析](https://kaigi.org/jsai/webprogram/2014/pdf/46.pdf)  
-[人狼における強化学習を用いたエージェントの設計](https://kaigi.org/jsai/webprogram/2015/pdf/1F2-2.pdf)  
-[汎用人工知能の標準問題としての人狼ゲーム](https://kaigi.org/jsai/webprogram/2014/pdf/584.pdf)  
-[コミュニケーションゲーム「人狼」におけるエージェント同士の会話プロトコルのモデル化](http://hai-conference.net/hai2013/proceedings/pdf/P19.pdf)  
+[同調と反駁に着目した人狼ゲームの分析](https://kaigi.org/jsai/webprogram/2014/pdf/46.pdf)：同調反駁と勝敗の因果関係  
+[汎用人工知能の標準問題としての人狼ゲーム](https://kaigi.org/jsai/webprogram/2014/pdf/584.pdf)：汎用人工知能としての提案  
+[コミュニケーションゲーム「人狼」におけるエージェント同士の会話プロトコルのモデル化](http://hai-conference.net/hai2013/proceedings/pdf/P19.pdf)：プラットフォーム作成  
 
-[強化学習を用いた人狼における最適戦略の抽出](http://ci.nii.ac.jp/naid/170000085948)  
+[強化学習を用いた人狼における最適戦略の抽出](http://ci.nii.ac.jp/naid/170000085948)：Q学習による人狼AI  
+[人狼における強化学習を用いたエージェントの設計](https://kaigi.org/jsai/webprogram/2015/pdf/1F2-2.pdf)：Q学習による人狼AI（個別学習データ）  
 
 [人狼知能エージェントによる議論の雰囲気生成とＡＩ識別実験](https://www.jstage.jst.go.jp/article/fss/31/0/31_370/_pdf)：対面人狼におけるAI  
 
@@ -30,3 +30,6 @@ class name : DiscoRoleAssignPlayer
 [Deep Q Network「DQN」やってみた](http://teemax.hatenablog.com/entry/2015/02/28/DQN%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F)  
 [人口知能？ Deep Q Network「DQN」お試し](http://teemax.hatenablog.com/entry/2015/03/19/220118)  
 [分散深層強化学習でロボット制御](https://research.preferred.jp/2015/06/distributed-deep-reinforcement-learning/)：DQN解説  
+
+## 統計データ
+[人狼BBS まとめサイト - G国傾向調査](http://wolfbbs.jp/G%B9%F1%B7%B9%B8%FE%C4%B4%BA%BA.html)：人狼知能と同じ条件下での勝率データ
